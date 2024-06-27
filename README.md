@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MartinBursztyn
+- 👀 I’m interested in machine learning and all the aspects of how to train an artificial intelligence
+- 🌱 I’m currently learning Data science
